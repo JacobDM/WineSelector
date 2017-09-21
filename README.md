@@ -5,16 +5,16 @@
 * JavaDoc comments detail my thought process and reasoning behind certain implementation details
 * Unit tests completed and located in the */src/test/java* folder
 
-# Problem 1
+## Problem 1
 /api/wine/name?id=(id here)
 
-# Problem 2
+## Problem 2
 /api/wine/pricing-list
 
-# Problem 3
+## Problem 3
 /api/wine/name?page=(page # here)
 
-# BONUS
+## BONUS
 /api/wine?id=(id here)
 
 **IMPORTANT: Removed the DB IP, username, AND password for security reasons. Update them in the application.yml file before running the project.**
