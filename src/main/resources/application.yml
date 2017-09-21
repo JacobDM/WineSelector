@@ -1,7 +1,7 @@
 spring.datasource:
-  url: jdbc:mysql://52.60.109.91:3306/db4?zeroDateTimeBehavior=convertToNull
-  username: userDB4
-  password: password
+  url: jdbc:mysql://REMOVED:3306/db4?zeroDateTimeBehavior=convertToNull
+  username: REMOVED
+  password: REMOVED
   driver-class-name: com.mysql.jdbc.Driver
 
 #allows for case sensitive columns and table names
